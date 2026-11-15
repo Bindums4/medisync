@@ -1,0 +1,1 @@
+{ "expo": { "name": "MediSync", "slug": "medisync", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "light", "ios": { "supportsTablet": false }, "android": { "package": "dev.medisync.app" } } }
